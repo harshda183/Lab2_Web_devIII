@@ -1,0 +1,9 @@
+$kind: http-request
+url: http://localhost:3000/students/4
+method: PUT
+headers:
+  Content-Type: application/json
+body:
+  type: text
+  content: '{"name":"Neha Sharma","course":"CSE"}'
+order: 4000

@@ -1,0 +1,9 @@
+$kind: http-request
+url: http://localhost:3000/students
+method: POST
+headers:
+  Content-Type: application/json
+body:
+  type: text
+  content: '{"name":"Neha","course":"BTech"}'
+order: 3000

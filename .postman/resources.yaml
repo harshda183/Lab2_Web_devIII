@@ -1,0 +1,13 @@
+# Use this workspace to collaborate
+workspace:
+  id: 8a308ed4-e1a1-4c0a-8c3d-92c8e3f4fc0b
+
+localResources:
+  collections:
+    - ../Student Management REST API
+
+# Each entry here maps a local resource to one or more corresponding objects in Postman Cloud
+
+cloudResources:
+  collections:
+    ../Student Management REST API: student-management-assignment-2
