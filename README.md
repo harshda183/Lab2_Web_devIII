@@ -155,9 +155,3 @@ Expected status: 400
 
 The student records are stored in an in-memory JavaScript array. Therefore, changes made through POST, PUT, and DELETE are lost when the server is restarted. This is expected because this assignment does not use a database.
 
-## Assignment Rubric
-
-- Functionality: 1.5 marks
-- API Design: 0.5 marks
-- Clean Code: 0.5 marks
-- Total: 2.5 marks
